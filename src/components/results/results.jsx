@@ -5,7 +5,6 @@ import './results.style.css';
 export default class Results extends React.Component {
     render() {
         const {winner} = this.props;
-        console.log(winner);
         return <div className="results-block">
             <h2>Результати голосування:</h2>
             {winner.length > 0 ? (
