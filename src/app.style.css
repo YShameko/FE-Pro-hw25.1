@@ -1,0 +1,40 @@
+.block {
+  padding: 6px 0;
+  text-align: center;
+}
+
+.smiley-block {
+  padding: 12px 0;
+}
+
+.results-btn {
+  color: white;
+  background-color: green;
+  font-size: larger;
+  padding: 12px;
+  border: none;
+  border-radius: 12px;
+  margin: 6px 12px;
+}
+
+.results-btn:hover {
+  cursor: pointer;
+}
+
+.clr-results-btn {
+  color: white;
+  background-color: red;
+  font-size: larger;
+  padding: 12px;
+  border: none;
+  border-radius: 12px;
+  margin: 6px 12px;
+}
+
+.clr-results-btn:hover {
+  cursor: pointer;
+}
+
+.results-block {
+  
+}

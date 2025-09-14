@@ -1,0 +1,20 @@
+
+.smiley {
+  font-size: 64px;
+}
+
+.smiley:hover {
+  cursor: pointer;
+}
+
+.each-smiley {
+  display: inline-block;
+  padding: 8px;
+}
+
+.smiley-votes {
+  font-size: larger;
+  font-style: italic;
+  font-weight: 600;
+}
+
